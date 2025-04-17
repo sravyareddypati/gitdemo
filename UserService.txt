@@ -1,2 +1,4 @@
 Hello this is user service file
 process data
+
+create and avatar for user
