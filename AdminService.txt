@@ -1,0 +1,2 @@
+admin can add and remove users.
+He can login or logout from other users.
